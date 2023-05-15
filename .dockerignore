@@ -1,0 +1,6 @@
+.git/
+.idea/
+venv/
+original/
+scripts/
+flagged/
